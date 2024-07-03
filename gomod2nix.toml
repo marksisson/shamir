@@ -1,0 +1,6 @@
+schema = 3
+
+[mod]
+  [mod."github.com/hashicorp/vault"]
+    version = "v1.17.1"
+    hash = "sha256-N4TszJAWOYH84yaSNKkWGUpQVtlWenZ8Tjlamc3+cSI="

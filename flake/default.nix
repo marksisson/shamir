@@ -1,0 +1,7 @@
+{
+  imports = [
+    ./devShells
+    ./packages
+    ./parts
+  ];
+}
